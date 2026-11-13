@@ -1,0 +1,10 @@
+build/
+build-asan/
+third_party/
+data/*
+!data/.keep
+reports/*
+!reports/.keep
+models/fedavg_head.txt
+__pycache__/
+*.pyc
